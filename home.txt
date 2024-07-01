@@ -1,1 +1,43 @@
-sethu
+<!DOCTYPE html>
+<html>
+    <head>
+ <title>AMS fish Shop</title>
+ <link rel="icon" href="img/Abstract_Fish_Logo__2_-removebg-preview.png">
+    </head>
+    <body>
+    <body bgcolor="black" style="color: white;">
+        <center>
+        <h1>AMS FISH SHOP🐟</h1>
+        <H1> Sea and Dam fish are available in Whole Sale and Retail</H1>
+    
+        <hr>
+     
+       <img src="img/Screenshot 2024-04-22 181730.jpg">
+       <h1>FISH TYPES</h1>
+       <h2>MATHI | KATLA | ROGU | GILEBI | NEI MEEN | ROOT(parai)</h2>
+    
+    <hr>
+    <hr>
+    
+    <H1>WE ARE ALSO AVAILABLE ON JUSTDAIL</H1>
+    <img src="img/download.png">
+
+    <h1><a href="https://www.justdial.com/Pollachi/Ams-Fish-Shop-Wholesaleretail-Opposite-to-Krishna-Departmental-Store-Kottur/9999P4259-4259-171019132935-J1H7_BZDET">
+        AMS FISH SHOP ON JUSTDAIL
+    </a></h1>
+    <h1>FISH TYPES AVAILABLE ON JUSTDAIL</h1>
+       <h2>MATHI | KATLA | ROGU | GILEBI | NEI MEEN | ROOT(parai)</h2>
+   
+    <HR>
+        <HR>
+           
+            <H1>Contact</H1>
+            <H1>call | whats app</H1>
+            <h1>+91 986 596 1474</h1>
+            <p>Anamalai - Dhali Rd, Sungam, Tamil Nadu 642007</p>
+
+        </center>
+    </body>
+</body>
+</html>
+
